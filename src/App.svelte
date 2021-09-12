@@ -23,20 +23,27 @@
 		</header>
 		<div class='scroll-header' class:visible={all}>
 			<div class='container'>
+				{#if year >= 0}
 					<nav>
-						{#if year >= 0}
-							<h4 class='year'>{year}</h4>
-							<h4><strong>{summary.years[index].accidents}</strong> <span>accidentes</span> </h4>
-							<h4><strong>{summary.years[index].deaths}</strong> <span>muertes </span></h4>
-							<h4><strong>${Intl.NumberFormat().format(summary.years[index].ammount)}MN</strong> <span> multas</span></h4>
-						{/if}
+						<h4 class='year'>{year}</h4>
+						<h4><strong>{summary.years[index].accidents}</strong> <span>accidentes</span> </h4>
+						<h4><strong>{summary.years[index].deaths}</strong> <span>muertes </span></h4>
+						<h4><strong>${Intl.NumberFormat().format(summary.years[index].ammount)}MN</strong> <span> multas</span></h4>
 					</nav>
+					<aside>
+						{#each summary.years as _year}
+							<article class:selected={_year.year === year}>
+								{_year.year}
+							</article>
+						{/each}
+					</aside>
+				{/if}
 			</div>
 		</div>
 		<Scroller {top} {bottom} bind:index bind:offset bind:progress>
 		  <div slot="background" class='background'>
 			<LeafletMap events={events.default} {year} {all} />
-		    <p class='source'>* Fuente STPS mediante solicitudes de información</p>
+		    <p class='source'>Fuente: STPS</p>
 		  </div>
 
 		  <div slot="foreground" class='foreground'>
@@ -50,7 +57,7 @@
 
 <style>	
 	section {
-		height: 50vh;
+		height: 60vh;
 	}
 
 	h1{
@@ -83,7 +90,7 @@
 	}
 	.container{
 		max-width: 1150px;
-		margin: 0 auto 0;
+		margin: 0 auto;
 		position: relative;
 	}
 	header{		
@@ -110,6 +117,7 @@
 		opacity: 0;
 		width: calc(100% - 10px);
 		margin: 0 8px;
+		z-index: 6;
 	}
 	.scroll-header h4{
 		font-size: 15px;
@@ -130,6 +138,28 @@
 	}
 	.source{
 		text-align: right;
+	}
+	.scroll-header aside{
+		display: flex;
+		flex-direction: column;
+		margin: 0 0 0 -2px;
+		width: 80px;
+    	height:calc(100vh - 150px);
+	}
+	.scroll-header aside article{
+		font-size: 17px;
+		flex: 1;
+		margin-bottom: 1px;
+		background-color: rgba(100,100,100,.5);
+		text-align: center;
+		width: auto;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.scroll-header aside article.selected{
+		background-color: rgba(255,255,255,.8);
+		color: black;
 	}
 	@media screen and (min-width: 769px) {
     	.scroll-header h4{
