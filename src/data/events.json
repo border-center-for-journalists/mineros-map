@@ -1,0 +1,662 @@
+[
+  {
+    "company": "CALIZA PROCESADA DEL NORTE, S.A. DE C.V. (MICARE)",
+    "location": "CAMINO REAL DE LOS EJIDOS MOTA DE ALEJO Y SAUCEDA. NAVA, COAHUILA.",
+    "lat": 28.4212302,
+    "long": -100.7638814,
+    "year": 2006,
+    "sanction": "ACUERDO DE TRAMITE/NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "RUBÉN TREJO GARCIA (CARBONÍFERA SAN PATRICIO)",
+    "location": "DOMICILIO CONOCIDO Col. , C.P. 26700, PROGRESO, COAHUILA DE ZARAGOZA",
+    "lat": 27.4280199,
+    "long": -100.9877821,
+    "year": 2006,
+    "sanction": "MULTA",
+    "ammount": 148788,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA CARBONÍFERA RIO ESCONDIDO, S.A. DE C.V. TAJOS Y COMERCIALIZADORA RML DEL NTE Y CALIZA PROCESADA",
+    "location": "carretera 57 km. 32. mpio. Nava, coahuila.",
+    "lat": 28.4212302,
+    "long": -100.7638814,
+    "year": 2006,
+    "sanction": "ACUERDO DE TRAMITE/NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MICARE TALLER CENTRAL DE MINAS SUBTERRÁNEAS",
+    "location": "CAMINO REAL A EJIDO MOTA DE ALEJO Col. , C.P. 26170, NAVA, COAHUILA DE ZARAGOZA",
+    "lat": 28.4120034,
+    "long": -100.78132,
+    "year": 2007,
+    "sanction": "MULTA DE $14,994.00",
+    "ammount": 14994,
+    "deaths": 1
+  },
+  {
+    "company": "MINERALES MONCLOVA, S.A. DE C.V. MINA VII SALTILLITO",
+    "location": "Carretera estatal no. 9 al norte y al sureste del ejido de barroteran. Progreso, Coahuila.",
+    "lat": 27.6877726,
+    "long": -101.3020322,
+    "year": 2007,
+    "sanction": "MULTA D E $214,914.00",
+    "ammount": 214914,
+    "deaths": 1
+  },
+  {
+    "company": "SERVICSAN, S.A. DE C.V. MINERALES MONCLOVA, S.A. DE C.V.",
+    "location": "BOULEVARD HAROLD R. PAPE NUM. 910-9-A Col. CHAPULTEPEC, C.P. 25730, MONCLOVA, COAHUILA DE ZARAGOZA",
+    "lat": 26.9141785,
+    "long": -101.4275715,
+    "year": 2007,
+    "sanction": "MULTA DE $118,524.00",
+    "ammount": 118524,
+    "deaths": 1
+  },
+  {
+    "company": "QUÍMICA DEL REY, S.A. DE C.V.",
+    "location": "DOMICILIO CONOCIDO N° Col. INDUSTRIAL, C.P. 27000, OCAMPO, COAHUILA DE ZARAGOZA",
+    "lat": 27.3145775,
+    "long": -102.3976475,
+    "year": 2007,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "CARBONÍFERA MANANTIAL, S.A. DE C.V.",
+    "location": "DOMICILIO CONOCIDO EJIDO SANTA MARIA Col. , C.P. 26800, SAN JUAN DE SABINAS, COAHUILA DE ZARAGOZA",
+    "lat": 27.9844187,
+    "long": -101.4278776,
+    "year": 2007,
+    "sanction": "MULTA DE $31, 185.00",
+    "ammount": 1185,
+    "deaths": 1
+  },
+  {
+    "company": "PEÑARRIETA PARRA WALTER (BARITA)",
+    "location": "EJIDO MUZQUIZ, PREDIO LA MISION Col. CAÑON DE LA VASQUEÑA, C.P. 26000, MELCHOR MUZQUIZ, COAHUILA DE ZARAGOZA",
+    "lat": 27.8800603,
+    "long": -101.5077573,
+    "year": 2008,
+    "sanction": "MULTA DE $32, 670.00",
+    "ammount": 32670,
+    "deaths": 1
+  },
+  {
+    "company": "FLURITA DE MÉXICO, S.A. DE C.V. PLANTA",
+    "location": "UNIDAD BUENAVISTA LA SABINA N° Col. , C.P. 26340, OCAMPO, COAHUILA DE ZARAGOZA",
+    "lat": 27.3156234,
+    "long": -102.3965211,
+    "year": 2008,
+    "sanction": "MULTA DE $10, 395.00",
+    "ammount": 10395,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA ZEDUVIK, S.A. DE C.V.",
+    "location": "DOMICILIO CONOCIDO Col. EJIDO AGUJITA, C.P. 26750, SABINAS, COAHUILA DE ZARAGOZA",
+    "lat": 27.8992862,
+    "long": -101.1624435,
+    "year": 2009,
+    "sanction": "MULTA DE $4, 675.5",
+    "ammount": 4676,
+    "deaths": 9
+  },
+  {
+    "company": "ALVARAM DE AGUIJITA, S.A. DE C.V.",
+    "location": "PASEO DE LOS LEONES PONIENTE NUMERO 393 LOCL D N° Col. REYNERA, C.P. 26730, SABINAS, COAHUILA DE ZARAGOZA",
+    "lat": 27.8606203,
+    "long": -101.1260874,
+    "year": 2009,
+    "sanction": "MULTA DE $182, 344.5",
+    "ammount": 182335,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA SIDERÚRGICA DE COAHUILA, S.A. DE C.V.",
+    "location": "CARRETERA 57 KM. 56 N° Col. , C.P. 25490, ESCOBEDO, COAHUILA DE ZARAGOZA",
+    "lat": 27.3073436,
+    "long": -101.2313036,
+    "year": 2009,
+    "sanction": "MULTA DE $633, 530.25",
+    "ammount": 633530,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V.",
+    "location": "UNIDAD MIMOSA PTA. LAV. 2 CARRETERA ESTATAL BARROTERAN - LA FLORIDA KM. 5.5 N° Col. , C.P. 26900, MELCHOR MUZQUIZ, COAHUILA DE ZARAGOZA",
+    "lat": 27.6877726,
+    "long": -101.3020322,
+    "year": 2010,
+    "sanction": "MULTA DE $5,719.35",
+    "ammount": 5719,
+    "deaths": 0
+  },
+  {
+    "company": "MIGARFU, S.A. DE C.V.",
+    "location": "DOMICILIO CONOCIDO, LOTE AMPLIACION LAS PEÑITAS, APROXIMADAMENTE A 200 METROS DE LA PARCELA DE INTERSECCION DE LA AV. MACLOVIO HERRERA Y G. PRIETO Col. , C.P. 25420, PROGRESO, COAHUILA DE ZARAGOZA",
+    "lat": 27.4280199,
+    "long": -100.9877821,
+    "year": 2010,
+    "sanction": "MULTA DE $ 205,896.6",
+    "ammount": 205897,
+    "deaths": 0
+  },
+  {
+    "company": "SERVICIOS ESPECIALIZADOS MAMPARE, S. DE R.L. DE C.V.",
+    "location": "CARRETERA OCAMPO SAN MIGUEL KM. 108 Col. , C.P. 25000, OCAMPO, COAHUILA DE ZARAGOZA",
+    "lat": 28.6377093,
+    "long": -102.9462702,
+    "year": 2010,
+    "sanction": "MULTA DE $ 4,902.3",
+    "ammount": 4902,
+    "deaths": 0
+  },
+  {
+    "company": "REFACCIONES Y MATERIALES DE SABINAS, S.A. DE C.V.",
+    "location": "AL SUR Y 100 MTS. DEL CAMINO LA FLORIDA - MINERAL DE SAN JOSE DE AURA. MISMO PP DE LOS LOTES EL BUFA N° Col. LOTE LA ESCONDIDA FRACCION II, C.P. 26870, MELCHOR MUZQUIZ, COAHUILA DE ZARAGOZA",
+    "lat": 27.6877726,
+    "long": -101.3020322,
+    "year": 2010,
+    "sanction": "MULTA DE $ 191,189.7",
+    "ammount": 191190,
+    "deaths": 7
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V.",
+    "location": "UNIDAD HERCULES DOMICILIO CONOCIDO Col. HERCULES, C.P. 27600, SIERRA MOJADA, COAHUILA DE ZARAGOZA",
+    "lat": 28.0333635,
+    "long": -103.7636752,
+    "year": 2011,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 24
+  },
+  {
+    "company": "MINERA SIDERÚRGICA DE COAHUILA, S.A. DE C.V. 02/02/11",
+    "location": "CARRETERA 57 KM. 56 N° Col. , C.P. 25490, ESCOBEDO, COAHUILA DE ZARAGOZA",
+    "lat": 27.3073436,
+    "long": -101.2313036,
+    "year": 2011,
+    "sanction": "MULTA DE $ 40, 824.00",
+    "ammount": 40824,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA LA ENCANTADA, S.A. DE C.V. 15/02/11",
+    "location": "DOMICILIO CONOCIDO UNIDAD LA ENCANTADA N° Col. , C.P. 27500, OCAMPO, COAHUILA DE ZARAGOZA",
+    "lat": 28.360225,
+    "long": -102.5748613,
+    "year": 2011,
+    "sanction": "MULTA DE $ 8, 788.50",
+    "ammount": 8789,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A DE C.V.",
+    "location": "UNIDAD MIMOSA MINA VII CARRETERA ESTATAL NO. 9 DEL SAUZ A PALAU 5 KM. + 549 MTS. A LA IZQUIERDA DE ACCESO A 2600 MTS. N°, COAHUILA",
+    "lat": 27.058676,
+    "long": -101.7068294,
+    "year": 2011,
+    "sanction": "MULTA DE $ 8, 505.00",
+    "ammount": 8505,
+    "deaths": 0
+  },
+  {
+    "company": "BENEFICIOS INTERNACIONALES DEL NORTE, S.A. DE C.V. 03/05/11",
+    "location": "CARRETERA FEDERAL 57 KM.112+500, EJIDO SABINAS A 1 KM. 200 MTS. DE LA PUERTA DE ACCESO AL PONIENTE DEL EJIDO MUNICIPIO DE SABINAS, COAHUILA",
+    "lat": 27.8400095,
+    "long": -101.1292395,
+    "year": 2011,
+    "sanction": "MULTA DE $ 556, 227.00",
+    "ammount": 556227,
+    "deaths": 0
+  },
+  {
+    "company": "RODRÍGUEZ RIVAS JAIME 29/04/2011",
+    "location": "ENTRONQUE CARRETERA SAN BUENAVENTURA - HERMANAS Col. , C.P. 25422, ESCOBEDO, COAHUILA DE ZARAGOZA",
+    "lat": 27.0554305,
+    "long": -101.5441455,
+    "year": 2011,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V.",
+    "location": "KM. 14.5 CARRETERA NUEVA ROSITA - MELCHOR MUZQUIZ N°, COAHUILA",
+    "lat": 27.8774905,
+    "long": -101.4918324,
+    "year": 2011,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 0
+  },
+  {
+    "company": "MATERIALES INDUSTRIALIZADOS, S.A. DE C.V.",
+    "location": "MORELOS Y EMILIANO ZAPATA S/N N° Col. AMPLIACION LA SIERRITA, C.P. 25620, FRONTERA, COAHUILA DE ZARAGOZA",
+    "lat": 26.9417236,
+    "long": -101.45521,
+    "year": 2012,
+    "sanction": "MULTA DE $ 25,404.40",
+    "ammount": 25404,
+    "deaths": 18
+  },
+  {
+    "company": "BALDEMAR CERVANTES CADENA",
+    "location": "4500 MTS AL SW DE LA CARRETERA SABINAS - DON MARTIN, A 1100 MTS NW DEL MINERAL DE SAN FELIPE VIEJO. N° Col. COORDENADAS UTM 14RNAD27 0303954E, 3067041N, C.P. 26000, SABINAS, COAHUILA DE ZARAGOZA",
+    "lat": 27.8647835,
+    "long": -101.1334267,
+    "year": 2012,
+    "sanction": "MULTA DE $ 425,376.00",
+    "ammount": 4257376,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA EL PROGRESO, S.A. DE C.V.",
+    "location": "BOULEVARD PASEO DE LOS LEONES N° 1347 Col. DEL VALLE, C.P. 26788, SABINAS, COAHUILA DE ZARAGOZA",
+    "lat": 27.8604295,
+    "long": -101.1262858,
+    "year": 2012,
+    "sanction": "MULTA DE $ 483,865.20",
+    "ammount": 483865,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V.",
+    "location": "MINA VII CARRETERA ESTATAL NO. 9 DEL SAUZ A PALAU 5 KM. + 549 MTS. A LA IZQUIERDA DE ACCESO A 2600 MTS. N° Col. , C.P. 26900, PROGRESO, COAHUILA DE ZARAGOZA",
+    "lat": 27.4280199,
+    "long": -100.9877821,
+    "year": 2012,
+    "sanction": "MULTA DE $ 8,862.00",
+    "ammount": 8862,
+    "deaths": 0
+  },
+  {
+    "company": "ARMALZ DE SABINAS, S.A. DE C.V.",
+    "location": "FRANCISCO JAVIER MINA OTE 245, Colonia CENTENARIO, C.P. 26750, SABINAS, COAHUILA",
+    "lat": 27.8554978,
+    "long": -101.1142977,
+    "year": 2013,
+    "sanction": "MULTA DE $ 33,027.60",
+    "ammount": 33028,
+    "deaths": 6
+  },
+  {
+    "company": "MINERA LA ENCANTADA, S.A. DE C.V.",
+    "location": "DOMICILIO CONOCIDO UNIDAD LA ENCANTADA No. S/N, Colonia S/C, C.P. 27500, OCAMPO, COAHUILA",
+    "lat": 28.360225,
+    "long": -102.5748613,
+    "year": 2013,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 0
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V.",
+    "location": "UNIDAD MINA V LA ESMERALDA KM. 14.5 CARRETERA NUEVA ROSITA - MELCHOR MUZQUIZ, C.P. 26900, SAN JUAN DE SABINAS, COAHUILA",
+    "lat": 27.9524196,
+    "long": -101.2028957,
+    "year": 2013,
+    "sanction": "MULTA DE $ 181,651.80",
+    "ammount": 181652,
+    "deaths": 0
+  },
+  {
+    "company": "MINERÍA Y ENERGÍA DEL NORESTE, S.A. DE C.V. (EL FÉNIX TECNOSERVICIOS, S.A. DE C.V.)",
+    "location": "DOMICILIO CONOCIDO CAMINO LA FLORIDA A SAN JOSÉ DE AURA KILOMETRO 10,, C.P. 26340, MUZQUIZ, COAHUILA",
+    "lat": 27.655203,
+    "long": -101.3335,
+    "year": 2013,
+    "sanction": "MULTA DE $ 174,852.00",
+    "ammount": 174852,
+    "deaths": 0
+  },
+  {
+    "company": "JUAN ANTONIO QUISTIANO LARES)",
+    "location": "Luis Donaldo Colosio No. 49. Col. Los Filtros C.P. 26885. San Juan de Sabinas, Coahuila. Alcance COORDENADAS NAD27 E283855; N3091234\nCloete en municipio de Sabinas, Coahuila",
+    "lat": 27.9288804,
+    "long": -101.2378565,
+    "year": 2014,
+    "sanction": "MULTA DE $ 2,111,223.75",
+    "ammount": 2111224,
+    "deaths": 0
+  },
+  {
+    "company": "REFACCIONES Y MATERIALES DE SABINAS, S.A. DE C.V.",
+    "location": "Centro de Trabajo en Lote minero La Escondida Fracc. II Fracción G título número 239017, COAHUILA",
+    "lat": 28.1070926,
+    "long": -101.4853146,
+    "year": 2014,
+    "sanction": "MULTA DE $ 6,459,840.00",
+    "ammount": 6459840,
+    "deaths": 4
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V.",
+    "location": "MINA VI",
+    "lat": "",
+    "long": "",
+    "year": 2014,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 0
+  },
+  {
+    "company": "MITROSA, S.A. DE C.V.",
+    "location": "AL ESTE Y 100 MTS. DEL RIO SABINAS, MISMO PP DE LOS LOTES EL HUECO 2T-212240 Y SALVATORE T-197988, A No. ,, Colonia 2000 MTS. AL S DEL POBLADO DE AGUJITA, A 3000 MTS. AL NW DE LA CIUDAD DE SABINAS, C.P. 26950, SABINAS, COAHUILA",
+    "lat": 27.8992862,
+    "long": -101.1624435,
+    "year": 2014,
+    "sanction": "CONRESTRICCION DE ACCESO",
+    "ammount": 0,
+    "deaths": 0
+  },
+  {
+    "company": "COAL DEL NORTE, S.A. DE C.V.",
+    "location": "EPIFANIO RAMOS NO. 237 SUR. COL. CENTRO. SABINAS, COAHUILA. CENTRO DE TRABAJO LOTE MINERO CLOETE SUR TITULO NUM. 161543, COAHUILA",
+    "lat": 27.8505931,
+    "long": -101.1242134,
+    "year": 2015,
+    "sanction": "CONRESTRICCION DE ACCESO",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA LA ENCANTADA, S.A. DE C.V.",
+    "location": "Mineral de la Encantada a 225 km. De Melchor Muzquiz. Ocampo, Coahuila",
+    "lat": 28.360225,
+    "long": -102.5748613,
+    "year": 2015,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V. MINERA DEL NORTE, S.A. DE C.V. (UNIDAD HÉRCULES)",
+    "location": "DOMICILIO CONOCIDO S/N, Colonia HABITACIONAL, C.P. 27600, SIERRA MOJADA, COAHUILA",
+    "lat": 27.2906955,
+    "long": -103.7014059,
+    "year": 2015,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Minera del Norte, S.A. DE C.V.",
+    "location": "Unidad MIMOSA Tajo San Carlos KM. 6 del Camino Real Palau a Santa Maria, C.P. 26350, Muzquiz, Coahuila.",
+    "lat": 27.8914191,
+    "long": -101.4239786,
+    "year": 2015,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Fluorita de México, S.A. DE C.V.",
+    "location": "Unidad Buena Vista “La Sabina”. Ocampo, Coahuila",
+    "lat": 27.5333329,
+    "long": -103.0666671,
+    "year": 2015,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Fluorita de México, S.A. DE C.V.",
+    "location": "Unidad Buena Vista “La Sabina”. Ocampo, Coahuila",
+    "lat": 27.5333329,
+    "long": -103.0666671,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Carbonífera el Gato, S.A. DE C.V.",
+    "location": "Al Noreste y 2000 mts. de la Mina 5 Fundidora Monterrey y a la orilla del camino que va del merendero de la chata Garza a la Mina el Coyote, COAHUILA",
+    "lat": 28.3533669,
+    "long": -102.3694744,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Minera del Norte, S.A. DE C.V.",
+    "location": "Unidad Hércules. DOMICILIO CONOCIDO. SIERRA MOJADA, COAHUILA.",
+    "lat": 28.0333635,
+    "long": -103.7636752,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MIGARAL, S.A. DE C.V.",
+    "location": "CARRETERA FEDERAL 57 NO. 260 SUR, COLONIA EJIDO EL MEZQUITE, C.P. 26790, SABINAS, COAHUILA.",
+    "lat": 27.829006,
+    "long": -101.133551,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERIA Y ENERGIA DEL NORESTE, S.A. DE C.V.",
+    "location": "Domicilio Conocido Camino la Florida a San José de Aura Kilómetro 10, C.P. 26340. Muzquiz Coahuila",
+    "lat": 27.655203,
+    "long": -101.3335,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "LA ENCANTADA PROCESADORA DE MINERALES S.A. DE C.V.",
+    "location": "MINERAL LA ENCANTADA A 225 KMS DE MELCHOR MUZQUIZ, N° S/N COLONIA OCAMPO, C.P. 26000 OCAMPO COAHUILA",
+    "lat": 27.8800603,
+    "long": -101.5077573,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Mina Zaragoza",
+    "location": "Mina \"Zaragoza",
+    "lat": "",
+    "long": "",
+    "year": 2016,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "EPICT SOLUCIONES, SA DE CV",
+    "location": "MUPO II TITULO DE CONCESION NO. 216900, COLONIA MINA MUPO, C.P. 26790, SABINAS, COAHUILA",
+    "lat": 27.8349914,
+    "long": -101.1263507,
+    "year": 2016,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "C5, SA DE CV",
+    "location": "LA ESCONDIDA No. 1 FRACC. B No. 230542, Colonia SIN COLONIA, C.P. 26730, MUZQUIZ, COAHUILA",
+    "lat": 27.8854337,
+    "long": -101.5056586,
+    "year": 2017,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V",
+    "location": "MIMOSA MINA VII CARRETERA ESTATAL NO. 9 DEL SAUZ A PALAU 5 KM. + 549 MTS. A LA IZQUIERDA DE ACCESO A 2600 MTS., C.P. 26900, PROGRESO, COAHUILA",
+    "lat": 27.4280199,
+    "long": -100.9877821,
+    "year": 2017,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 5
+  },
+  {
+    "company": "MINERGY DE MÉXICO S.A DE C.V. EPICT SOLUCIONES S.A DE C.V",
+    "location": "Sin dato",
+    "lat": "",
+    "long": "",
+    "year": 2017,
+    "sanction": "Sin dato",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "C5, SA DE CV",
+    "location": "LA ESCONDIDA No. 1 FRACC. B No. 230542, Colonia SIN COLONIA, C.P. 26730, MUZQUIZ, COAHUILA",
+    "lat": 27.8854337,
+    "long": -101.5056586,
+    "year": 2017,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA LA ENCANTADA S.A. DE C.V.",
+    "location": "MINERAL LA ENCANTADA A 225 KMS DE MELCHOR MUZQUIZ, N° S/N COLONIA OCAMPO, C.P. 26000 OCAMPO COAHUILA",
+    "lat": 27.8800603,
+    "long": -101.5077573,
+    "year": 2017,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 4
+  },
+  {
+    "company": "MINERA Y ACARREOS FLORES, SA DE CV",
+    "location": "LIBRAMIENTO NO. 100 A, COLONIA SAN LUISITO, C.P. 26840, SAN JUAN DE SABINAS, COAHUILA",
+    "lat": 27.9507832,
+    "long": -101.2324707,
+    "year": 2018,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA DEL NORTE, S.A. DE C.V MINA VI MIMOSA",
+    "location": "CARRETERA MUZQUIZ - NUEVA ROSITA KM. 20 S/N No. S/N, Interior S/N, Colonia SIN NOMBRE, C.P. 26350, MUZQUIZ, COAHUILA",
+    "lat": 27.9452853,
+    "long": -101.2233891,
+    "year": 2018,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "DATO CONFIDENCIAL",
+    "location": "DATO CONFIDENCIAL",
+    "lat": "",
+    "long": "",
+    "year": 2019,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA BOSTON, SA DE CV",
+    "location": "JESUS CARRANZA Y SAN FRANCISCO No. 710, Colonia LA GLORIA, C.P. 26340, MUZQUIZ, COAHUILA",
+    "lat": 27.879526,
+    "long": -101.501889,
+    "year": 2019,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Metalúrgica Met-Mex Peñoles, S.A de C.V",
+    "location": "Sin dato",
+    "lat": "",
+    "long": "",
+    "year": 2020,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "MINERA LA ENCANTADA S.A. DE C.V.",
+    "location": "MINERAL LA ENCANTADA A 225 KMS DE MELCHOR MUZQUIZ, N° S/N COLONIA OCAMPO, C.P. 26000 OCAMPO COAHUILA",
+    "lat": 27.8800603,
+    "long": -101.5077573,
+    "year": 2020,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Minera El Retoño",
+    "location": "CARRETERA 57 KM. 123 No. S/N, Colonia LAS FLORES, C.P. 26832, SAN JUAN DE SABINAS, COAHUILA",
+    "lat": 27.93862,
+    "long": -101.193195,
+    "year": 2020,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Barita de Santa Rosa",
+    "location": "Sin dato",
+    "lat": "",
+    "long": "",
+    "year": 2020,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "DRUMAK, SA DE CV",
+    "location": "IGNACIO MANUEL ALTAMIRANO No. SIN NUMERO, Interior LOCAL 54, Colonia REYNERA, C.P. 26730, SABINAS, COAHUILA",
+    "lat": 27.8601763,
+    "long": -101.1257408,
+    "year": 2021,
+    "sanction": "SIN VIOLACIONES /NO HUBO SANCIÓN",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "San Juanita Guadalupe Lares Pargas",
+    "location": "Sin dato",
+    "lat": "",
+    "long": "",
+    "year": 2021,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 1
+  },
+  {
+    "company": "Rodensa-Carkim-Micarán",
+    "location": "Mina Micarán",
+    "lat": 27.823582,
+    "long": -101.386101,
+    "year": 2021,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 7
+  },
+  {
+    "company": "Rodensa-Carkim",
+    "location": "Transporte",
+    "lat": 27.783427,
+    "long": -101.384481,
+    "year": 2021,
+    "sanction": "No hay dato",
+    "ammount": 0,
+    "deaths": 2
+  }
+]

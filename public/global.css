@@ -1,0 +1,113 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	color: white;
+	background-color: black;
+	margin: 0;
+	padding: 8px;
+	box-sizing: border-box;
+	font-family: Aleo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	-ms-overflow-style: none;  /* IE and Edge */
+  	scrollbar-width: none;  /* Firefox */
+  padding-bottom: 50vh;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+a {
+	color: rgb(0,100,200);
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(0,80,160);
+}
+
+label {
+	display: block;
+}
+
+input, button, select, textarea {
+	font-family: inherit;
+	font-size: inherit;
+	-webkit-padding: 0.4em 0;
+	padding: 0.4em;
+	margin: 0 0 0.5em 0;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+}
+
+input:disabled {
+	color: #ccc;
+}
+
+button {
+	border: none;
+	margin: 0 1px 1px 0;
+	padding: 10px 7px;
+	background-color: #888 ;
+	cursor: pointer;
+	color: white;
+}
+
+
+button:disabled {
+	color: #999;
+}
+
+button:not(:disabled):active {
+	/*background-color: #ddd;*/
+}
+
+button:focus {
+	border-color: #666;
+}
+h1{
+	text-align: center;
+	font-size: 28px;
+}
+
+.event-marker{
+	font-size: 12px;
+	text-align: center;
+	font-family: Aleo;
+	opacity: .5;
+	border-radius: 50%;
+	width: 12px;
+	height: 12px;
+	color: black;
+	background-color: #FF473F;
+}
+
+.leaflet-tooltip.event-tooltip{
+	height:  auto;
+	font-family: Aleo;
+	background-color: black;
+	color: white;
+	opacity: .8!important;
+	border: none;
+	border-radius: 2px;
+	padding: 8px 10px;
+	font-size: 14px;
+	white-space: pre-wrap;
+	min-width: 250px;
+	margin-left: 40px;
+
+}
+.leaflet-tooltip.event-tooltip .date{
+	color: #999;
+	font-weight: bold;
+	margin: 2px 0;
+}
+.leaflet-tooltip.event-tooltip::before{
+	display: none;
+}
+
+.background-container{
+	z-index: 5!important;
+}
